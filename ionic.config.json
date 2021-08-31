@@ -1,0 +1,7 @@
+{
+  "name": "custom-coupons",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
